@@ -1,0 +1,5 @@
+rootProject.name = 'java-040-basic-microservices'
+include 'ServiceA'
+include 'ServiceB'
+include 'ServiceC'
+
